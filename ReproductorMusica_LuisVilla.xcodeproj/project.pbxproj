@@ -7,12 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		517FB7EE1CD6696D007288DF /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 517FB7ED1CD6696D007288DF /* Datos.swift */; };
+		517FB7F41CD682F7007288DF /* Counting Stars.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 517FB7EF1CD682F7007288DF /* Counting Stars.mp3 */; };
+		517FB7F51CD682F7007288DF /* Come Together.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 517FB7F01CD682F7007288DF /* Come Together.mp3 */; };
+		517FB7F61CD682F7007288DF /* No Leaf Clover.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 517FB7F11CD682F7007288DF /* No Leaf Clover.mp3 */; };
+		517FB7F71CD682F7007288DF /* Get Lucky.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 517FB7F21CD682F7007288DF /* Get Lucky.mp3 */; };
+		517FB7F81CD682F7007288DF /* Stressed Out.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 517FB7F31CD682F7007288DF /* Stressed Out.mp3 */; };
+		517FB8081CD684EF007288DF /* Beatles.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 517FB8031CD684EF007288DF /* Beatles.jpeg */; };
+		517FB8091CD684EF007288DF /* OneRepublic.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 517FB8041CD684EF007288DF /* OneRepublic.jpeg */; };
+		517FB80A1CD684EF007288DF /* Twenty.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 517FB8051CD684EF007288DF /* Twenty.jpeg */; };
+		517FB80B1CD684EF007288DF /* Metallica.png in Resources */ = {isa = PBXBuildFile; fileRef = 517FB8061CD684EF007288DF /* Metallica.png */; };
+		517FB80C1CD684EF007288DF /* DaftPunk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 517FB8071CD684EF007288DF /* DaftPunk.jpg */; };
+		517FB8101CD68CC8007288DF /* shuffle1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 517FB80D1CD68CC8007288DF /* shuffle1.jpeg */; };
+		517FB8111CD68CC8007288DF /* pause1.png in Resources */ = {isa = PBXBuildFile; fileRef = 517FB80E1CD68CC8007288DF /* pause1.png */; };
+		517FB8121CD68CC8007288DF /* play1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 517FB80F1CD68CC8007288DF /* play1.jpeg */; };
 		51EBCFA21CD5BAB400E9A328 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51EBCFA11CD5BAB400E9A328 /* AppDelegate.swift */; };
 		51EBCFA41CD5BAB400E9A328 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51EBCFA31CD5BAB400E9A328 /* ViewController.swift */; };
 		51EBCFA71CD5BAB400E9A328 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51EBCFA51CD5BAB400E9A328 /* Main.storyboard */; };
 		51EBCFA91CD5BAB400E9A328 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51EBCFA81CD5BAB400E9A328 /* Assets.xcassets */; };
 		51EBCFAC1CD5BAB400E9A328 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51EBCFAA1CD5BAB400E9A328 /* LaunchScreen.storyboard */; };
 		51EBCFB71CD5BAB400E9A328 /* ReproductorMusica_LuisVillaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51EBCFB61CD5BAB400E9A328 /* ReproductorMusica_LuisVillaTests.swift */; };
+		51EBCFD21CD5BD3500E9A328 /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 51EBCFC61CD5BD3500E9A328 /* pause.png */; };
+		51EBCFD31CD5BD3500E9A328 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 51EBCFC71CD5BD3500E9A328 /* play.png */; };
+		51EBCFD41CD5BD3500E9A328 /* shuffle.png in Resources */ = {isa = PBXBuildFile; fileRef = 51EBCFC81CD5BD3500E9A328 /* shuffle.png */; };
+		51EBCFDA1CD5BD3500E9A328 /* stop.png in Resources */ = {isa = PBXBuildFile; fileRef = 51EBCFCE1CD5BD3500E9A328 /* stop.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +44,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		517FB7ED1CD6696D007288DF /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
+		517FB7EF1CD682F7007288DF /* Counting Stars.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Counting Stars.mp3"; sourceTree = "<group>"; };
+		517FB7F01CD682F7007288DF /* Come Together.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Come Together.mp3"; sourceTree = "<group>"; };
+		517FB7F11CD682F7007288DF /* No Leaf Clover.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "No Leaf Clover.mp3"; sourceTree = "<group>"; };
+		517FB7F21CD682F7007288DF /* Get Lucky.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Get Lucky.mp3"; sourceTree = "<group>"; };
+		517FB7F31CD682F7007288DF /* Stressed Out.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Stressed Out.mp3"; sourceTree = "<group>"; };
+		517FB8031CD684EF007288DF /* Beatles.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Beatles.jpeg; sourceTree = "<group>"; };
+		517FB8041CD684EF007288DF /* OneRepublic.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OneRepublic.jpeg; sourceTree = "<group>"; };
+		517FB8051CD684EF007288DF /* Twenty.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Twenty.jpeg; sourceTree = "<group>"; };
+		517FB8061CD684EF007288DF /* Metallica.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Metallica.png; sourceTree = "<group>"; };
+		517FB8071CD684EF007288DF /* DaftPunk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DaftPunk.jpg; sourceTree = "<group>"; };
+		517FB80D1CD68CC8007288DF /* shuffle1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shuffle1.jpeg; sourceTree = "<group>"; };
+		517FB80E1CD68CC8007288DF /* pause1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause1.png; sourceTree = "<group>"; };
+		517FB80F1CD68CC8007288DF /* play1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = play1.jpeg; sourceTree = "<group>"; };
 		51EBCF9E1CD5BAB400E9A328 /* ReproductorMusica_LuisVilla.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReproductorMusica_LuisVilla.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51EBCFA11CD5BAB400E9A328 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		51EBCFA31CD5BAB400E9A328 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -36,6 +68,10 @@
 		51EBCFB21CD5BAB400E9A328 /* ReproductorMusica_LuisVillaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReproductorMusica_LuisVillaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		51EBCFB61CD5BAB400E9A328 /* ReproductorMusica_LuisVillaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReproductorMusica_LuisVillaTests.swift; sourceTree = "<group>"; };
 		51EBCFB81CD5BAB400E9A328 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		51EBCFC61CD5BD3500E9A328 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		51EBCFC71CD5BD3500E9A328 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		51EBCFC81CD5BD3500E9A328 /* shuffle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shuffle.png; sourceTree = "<group>"; };
+		51EBCFCE1CD5BD3500E9A328 /* stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stop.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,12 +113,30 @@
 		51EBCFA01CD5BAB400E9A328 /* ReproductorMusica_LuisVilla */ = {
 			isa = PBXGroup;
 			children = (
+				517FB80D1CD68CC8007288DF /* shuffle1.jpeg */,
+				517FB80E1CD68CC8007288DF /* pause1.png */,
+				517FB80F1CD68CC8007288DF /* play1.jpeg */,
+				517FB8031CD684EF007288DF /* Beatles.jpeg */,
+				517FB8041CD684EF007288DF /* OneRepublic.jpeg */,
+				517FB8051CD684EF007288DF /* Twenty.jpeg */,
+				517FB8061CD684EF007288DF /* Metallica.png */,
+				517FB8071CD684EF007288DF /* DaftPunk.jpg */,
+				517FB7EF1CD682F7007288DF /* Counting Stars.mp3 */,
+				517FB7F01CD682F7007288DF /* Come Together.mp3 */,
+				517FB7F11CD682F7007288DF /* No Leaf Clover.mp3 */,
+				517FB7F21CD682F7007288DF /* Get Lucky.mp3 */,
+				517FB7F31CD682F7007288DF /* Stressed Out.mp3 */,
+				51EBCFC61CD5BD3500E9A328 /* pause.png */,
+				51EBCFC71CD5BD3500E9A328 /* play.png */,
+				51EBCFC81CD5BD3500E9A328 /* shuffle.png */,
+				51EBCFCE1CD5BD3500E9A328 /* stop.png */,
 				51EBCFA11CD5BAB400E9A328 /* AppDelegate.swift */,
 				51EBCFA31CD5BAB400E9A328 /* ViewController.swift */,
 				51EBCFA51CD5BAB400E9A328 /* Main.storyboard */,
 				51EBCFA81CD5BAB400E9A328 /* Assets.xcassets */,
 				51EBCFAA1CD5BAB400E9A328 /* LaunchScreen.storyboard */,
 				51EBCFAD1CD5BAB400E9A328 /* Info.plist */,
+				517FB7ED1CD6696D007288DF /* Datos.swift */,
 			);
 			path = ReproductorMusica_LuisVilla;
 			sourceTree = "<group>";
@@ -146,7 +200,7 @@
 				TargetAttributes = {
 					51EBCF9D1CD5BAB400E9A328 = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = R8V6Q377C9;
+						DevelopmentTeam = 725L768Q48;
 					};
 					51EBCFB11CD5BAB400E9A328 = {
 						CreatedOnToolsVersion = 7.3;
@@ -179,8 +233,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				517FB7F41CD682F7007288DF /* Counting Stars.mp3 in Resources */,
+				517FB8121CD68CC8007288DF /* play1.jpeg in Resources */,
+				517FB7F51CD682F7007288DF /* Come Together.mp3 in Resources */,
+				517FB8091CD684EF007288DF /* OneRepublic.jpeg in Resources */,
+				51EBCFDA1CD5BD3500E9A328 /* stop.png in Resources */,
 				51EBCFAC1CD5BAB400E9A328 /* LaunchScreen.storyboard in Resources */,
+				517FB8101CD68CC8007288DF /* shuffle1.jpeg in Resources */,
+				51EBCFD41CD5BD3500E9A328 /* shuffle.png in Resources */,
+				517FB7F61CD682F7007288DF /* No Leaf Clover.mp3 in Resources */,
+				517FB80B1CD684EF007288DF /* Metallica.png in Resources */,
+				51EBCFD31CD5BD3500E9A328 /* play.png in Resources */,
+				517FB7F71CD682F7007288DF /* Get Lucky.mp3 in Resources */,
+				517FB80A1CD684EF007288DF /* Twenty.jpeg in Resources */,
+				51EBCFD21CD5BD3500E9A328 /* pause.png in Resources */,
+				517FB8111CD68CC8007288DF /* pause1.png in Resources */,
+				517FB8081CD684EF007288DF /* Beatles.jpeg in Resources */,
+				517FB7F81CD682F7007288DF /* Stressed Out.mp3 in Resources */,
 				51EBCFA91CD5BAB400E9A328 /* Assets.xcassets in Resources */,
+				517FB80C1CD684EF007288DF /* DaftPunk.jpg in Resources */,
 				51EBCFA71CD5BAB400E9A328 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -201,6 +272,7 @@
 			files = (
 				51EBCFA41CD5BAB400E9A328 /* ViewController.swift in Sources */,
 				51EBCFA21CD5BAB400E9A328 /* AppDelegate.swift in Sources */,
+				517FB7EE1CD6696D007288DF /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -331,10 +403,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = ReproductorMusica_LuisVilla/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "mx.com.officedepot.ReproductorMusica-LuisVilla";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -342,10 +417,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = ReproductorMusica_LuisVilla/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "mx.com.officedepot.ReproductorMusica-LuisVilla";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -392,6 +470,7 @@
 				51EBCFBD1CD5BAB400E9A328 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		51EBCFBE1CD5BAB400E9A328 /* Build configuration list for PBXNativeTarget "ReproductorMusica_LuisVillaTests" */ = {
 			isa = XCConfigurationList;
@@ -400,6 +479,7 @@
 				51EBCFC01CD5BAB400E9A328 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
